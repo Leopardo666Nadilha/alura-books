@@ -6,7 +6,7 @@ The entire site is built purely with **HTML5** and **CSS3**, with no JavaScript 
 
 ### 🚀 Key Focus
 The primary goal of this project was to create a fully responsive layout that adapts seamlessly to different screen sizes, with a special focus on:
-* Mobile (Celulares)
+* Mobile
 * Tablets
 * Desktop
 
